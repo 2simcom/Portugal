@@ -1,89 +1,20 @@
 #EXTM3U
-#EXTINF:-1,[COLOR blue][I][B]--- 19-11-2015 ---[/B][/I][/COLOR]
-#EXTINF:-1, [COLOR green] REDENEOBUX.COM -- 19-11-2015 --[/COLOR]
 
-#EXTINF:-1,[COLOR yellow]CANAIS TEMPORARIOS[/COLOR]
-http://0.0.0.0:1234
+#EXTINF:-1, Sky Sport 1 DE
+rtmp://terra.skykostenlos.com/tv/skysport1de
+#EXTINF:-1, Sky Sport 2 DE
+rtmp://terra.skykostenlos.com/tv/skysport2de
 
-#EXTINF:-1,[COLOR yellow]GENERALISTAS [/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-id="0500" group-title="Português" tvg-logo="0500.png",[COLOR orange] RTP 1[/COLOR]
-http://wownet.ro/str/0500.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0501" group-title="Português" tvg-logo="0501.png",[COLOR orange] RTP 2[/COLOR]
-http://wownet.ro/str/0501.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1,[COLOR orange]RTP 3 (INFORMACAO)[/COLOR]
-http://wownet.ro/str/0510.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0505" group-title="Português" tvg-logo="0505.png",[COLOR orange] RTP Africa[/COLOR]
-http://wownet.ro/str/0505.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0506" group-title="Português" tvg-logo="0506.png",[COLOR orange] RTP Memoria[/COLOR]
-http://wownet.ro/str/0506.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0508" group-title="Português" tvg-logo="0508.png",[COLOR orange] RTP Acores[/COLOR]
-http://wownet.ro/str/0508.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0509" group-title="Português" tvg-logo="0509.png",[COLOR orange] RTP Internacional[/COLOR]
-http://wownet.ro/str/0509.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1 tvg-id="RTP 1" tvg-logo="RTP1.png" group-title="Canais Portugal",[I][B]RTP 1[/B][/I]
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTP 2" tvg-logo="RTP2.png" group-title="Canais Portugal",[I][B]RTP 2[/B][/I]  
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="rtp_açores.png",[I][B]RTP ACORES[/B][/I]
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="rtp_africa.png",[I][B]RTP AFRICA[/B][/I]
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="RTP Madeira.png",[I][B]RTP MADEIRA[/B][/I]
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTP MEMORIA" tvg-logo="RTP MEMORIA.png" group-title="Canais Portugal",[I][B]RTP MEMORIA[/B][/I]
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="RTP INTERNACIONAL" tvg-logo="RTP INTERNACIONAL" group-title="Canais Portugal",[I][B]RTP INTERNACIONAL[/B][/I]
-http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/livestream.m3u8
-
-#EXTINF:-1, [I][B]SIC[/B][/I]
-http://213.13.26.11:1935/live/sic/livestream.m3u8
-
-#EXTINF:-1, [I][B]TVI (HQ)[/B][/I]
-http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
-
-#EXTINF:-1, [I][B]TVI REALITY - A QUINTA[/B][/I]
-http://62.210.82.241:1935/liverepeat/TVIReality24/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PORTUGAL", [I][B]TVI REALITY (A QUINTA)[/B][/I] opt2
-rtmp://62.210.88.232:1935/liverepeat?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6MDc6MzAgUE0maGFzaF92YWx1ZT1tSEpPOXptWGRwZDFjTzVzd0tFQWtnPT0mdmFsaWRtaW51dGVzPTMwMA==/TVIReality24 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=TVIReality24&vw=550&vh=430
-
-#EXTINF:-1,[COLOR yellow]ANIMACAO[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1, [I][B]South Park - Uncensored (24/7) [/B][/I] [COLOR orange][B](ingles)[/B][/COLOR]
-http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8
- 
-#EXTINF:-1, [I][B]Simpsons (24/7) [/B][/I] [COLOR orange][B](ingles)[/B][/COLOR]
-http://veetle.com/index.php/hls/streamMbrFast/52dada61bdf13_/stream.m3u8
-
-#EXTINF:-1,[COLOR yellow]DESPORTO NACIONAL [/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1,[I][B]SPORT TV AMERICAS[/B][/I]
+#EXTINF:-1,SPORT TV AMERICAS
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
  
-#EXTINF:-1,[I][B]SPORT TV AMERICAS[/B][/I] (stream 2)
+#EXTINF:-1,SPORT TV AMERICAS (stream 2)
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png" group-title="Desporto", [I][B]SPORT TV 1 HD[/B][/I]
-http://vps237.dyndns.org:8000/http/pubiptv.dyndns.org:4222/udp/239.100.28.10:1234
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png" group-title="Desporto", [I][B]SPORT TV 1 SD[/B][/I]
-http://31.204.128.112:8081/live/portugal1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png" group-title="Desporto", [I][B]SPORT TV 1 SD[/B][/I] (opc2)
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png" group-title="Desporto", SPORT TV 1 SD
 rtmpe://r.livecast.cc/rs/share/live1-rbi6c swfUrl=http://sharecast.to/player/jwplayer.flash.swf pageUrl=http://sharecast.to
 
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png" group-title="Desporto", [I][B]SPORT TV 1 SD[/B][/I] (opc3)
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png" group-title="Desporto", [I][B]SPORT TV 1 SD[/B][/I] (opc2)
 rtmpe://r.livecast.cc/rs/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live1-rbi6c timeout=15
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png" group-title="Desporto", [I][B]SPORT TV 2 SD[/B][/I]
@@ -98,29 +29,11 @@ rtmpe://r.livecast.cc/rs// playpath=live3-qszlx swfUrl=http://89123987015532.com
 #EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="sporttv5.png" group-title=“DESPORTO”, [I][B]SPORT TV 5 [/B][/I]
 rtmp://198.144.153.145:443/flash playpath=21649?MTQzODM1NzYzMztlNmFiOWRjZjhiMjFiYmI4YWIxYjJiZTRhZTYxMDE2NQ== swfUrl=http://static3.sawlive.tv/player.swf live=1 conn=S:OK pageUrl=http://www.sawlive.tv/embed/watch/YyNGM1MDk5YjFkYWJlM2ZhMDI5MzQzZWI_/Zm9kYXNzZTE6NjFjOTQ0M2VjODhlZTBkMDA3YmQ2ZWQxNTU2ZGY3MTM6MTMyM2ZhOW/magellan timeout=10
 
-#EXTINF:-1, [I][B]Benfica TV [/B][/I] [COLOR orange][B]1280x720[/B][/COLOR]
-http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/chunklist_b2628000.m3u8
-
-#EXTINF:-1, [I][B]Benfica TV [/B][/I] [COLOR orange][B]1024x576[/B][/COLOR]
-http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/chunklist_b1328000.m3u8
-
-#EXTINF:-1, [I][B]Benfica TV [/B][/I] [COLOR orange][B]960x540[/B][/COLOR]
-http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/chunklist_b828000.m3u8
-
-#EXTINF:-1, [I][B]Benfica TV (opc2) [/B][/I] [COLOR orange][B](com algumas paragens)[/B][/COLOR]
-http://62.210.248.96:11000/live/toze071@hotmail.com_pt/toze071@hotmail.com_pt/207.ts
-
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="bentv-ver2.png" group-title=“DESPORTO”,[I][B]BENFICA TV 1 (opc3)[/B][/I]  [COLOR orange][B]SD[/B][/COLOR]
-rtmp://75.126.196.162:1935/stream/ playpath=9DBo1519y0yBoOXhIxxsw.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d1260g154sp9032l1260on774x9032ib9032b608pp9032l1260op9032l1260op9032l1260od1260g154sn154h864o&width=600&height=460&st=n5f376n4w574x2s2f436q24693u533h4r5b4v4s364s2x2b4f444y26403q2a4v2q2v2&adx=&stream=24y2c4k584o55464b454r2k5x2c4e4n2p5u4v4a3f4w21374f476w226d3j4c4l4g4y2s45584y3x223a4n284a4a444x2s24464n2p5h346e3h44494v213p4v2x4o4x5d4n4p523t455m2a4c4l4m584s5w4q2y3o434242434x264b474z2i5x264w274l5h523t2p213a474m5b4a454v2x2k5a4t27403c47464t2u2y3m234242434p2&sooor=MQ==&str=is&ok=&cat=16&link=3&idom= timeout=10
-
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="bentv-ver2.png" group-title=“DESPORTO”,[I][B]BENFICA TV 2[/B][/I]  [COLOR orange][B]SD[/B][/COLOR]
-http://vps237.dyndns.org:8000/http/pubiptv.dyndns.org:4222/udp/239.100.30.31:1234
-
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="bentv-ver2.png" group-title=“DESPORTO”,[I][B]BENFICA TV 2 (opc2)[/B][/I]  [COLOR orange][B]SD[/B][/COLOR]
-rtmp://75.126.196.162:1935/stream/ playpath=1HBo1519y0yBoPLZsrzG8.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&k=d1260g154sp9032l1260on774x9032ib9032b608pp9032l1260op9032l1260op9032l1260od1260g154sn154h864o&width=600&height=460&st=n5f376n4w574x2s2f436q24693u533h4r5b4v4s364s2x2b4f444y26403q2a4v2q2v2&adx=&stream=24y2c4k584o55464b454r2k5x2c4e4n2p5u4v4a3f4w21374f476w226d3j4c4l4g4y2s45584y3x223a4n284a4a444x2s24464n2p5h346e3h44494v213p4v2x4o4x5d4n4p523t455m2a4c4l4m584s5w4q2y3o434242434x264b474z2i5x264w274l5h523t2p213a474m5b4a454v2x2k5a4t27403c47464t2u2y3m234242434p2&sooor=MQ==&str=is&ok=&cat=16&link=3&idom= timeout=10
-
 #EXTINF:-1,[I][B]Telekanal Futbol [COLOR orange](campeonato portugues)[/COLOR][/B][/I]
-http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
+http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
+
+#EXTINF:-1,[I][B]Telekanal Futbol (opc2) [COLOR orange](campeonato portugues)[/COLOR][/B][/I]
+http://win.cdn.bonus-tv.ru/TVB8/football/playlist.m3u8
 
 #EXTINF:-1,[I][B]CNOPT [COLOR orange](alguns jogos da liga)[/COLOR][/B][/I]
 http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8
@@ -129,41 +42,26 @@ http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8
 rtmp://198.144.153.145:443/flash playpath=21578?MTQ0MjQyMTU2MDtiNGExNzYwNjQyMWJjYWNkM2UyNWU1MmVhYzcwN2E2YQ== swfUrl=http://static3.sawlive.tv/player.swf live=1 conn=S:OK pageUrl=http://www.sawlive.tv/embed/watch/I1NDE2NGU5ZDNiZTYzMmFlYWU3Mjcy/YTQ0NHJmOjNmYzZlNzJkMjU0YzVhNTZmOWFhMDhiNDZkODZkMzM0OmIyZTdkZjEzNW/ARNO timeout=15 conn=S:OK –live
 
 
-#EXTINF:-1,[COLOR yellow] CINEMA [/COLOR]
-http://0.0.0.0:1234
+#EXTINF:0, KAZSPORT
+http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
+#EXTINF:-1, Fox Sports 1 HD NL
+http://bit.ly/1XxOerx
 
-#EXTINF:-1, [COLOR red]OFF[/COLOR]
+#EXTINF:-1, Fox Sports 2 HD NL
+http://bit.ly/1RciKYh
 
+#EXTINF:-1, Fox Sports 3 NL
+http://bit.ly/1TdiYgg
 
-#EXTINF:-1,[COLOR yellow] DOCUMENTARIOS [/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1, [COLOR red]OFF[/COLOR]
- 
-#EXTINF:-1,[COLOR yellow] NOTICIAS [/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="Euronews.png" group-title=PORTUGAL, EURONEWS
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
-
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="sic_noticias.png", SIC NOTICIAS
-http://213.13.26.7:1936/live/_definst_/sicnoticias/playlist.m3u8
-
-#EXTINF:-1, TVI 24
-http://wownet.ro/str/0504.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1, TVI 24 (stream 2)
-http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_w272103575_b814000.m3u8
-
-#EXTINF:-1, RTP 3
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8
-
-#EXTINF:0 tvg-id="CMTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png" audio-track="pt" group title="Portugal", CMTV [SD]
-rtmp://178.162.195.40/loadbalance app=loadbalance?wmsAuthSign=/ swfUrl=http://pxstream.tv/player510.swf pageUrl=http://pxstream.tv/embedrouter.php?file=cmtv22ed&width=555&height=435 playpath=84792152861424662534 token=#ed%h0#w@1 live=1 swfVfy=1 timeout=15
+#EXTINF:-1,ote sport 1
+http://38.122.233.10:1935/gr-live/otesport1.sdp/playlist.m3u8
+#EXTINF:-1,ote sport 2
+http://38.122.233.10:1935/gr-live/otesport2.sdp/playlist.m3u8
+#EXTINF:-1,ote sport 3
+http://38.122.233.10:1935/gr-live/otesport3.sdp/playlist.m3u8
+#EXTINF:-1,ote sport 4
+http://38.122.233.10:1935/gr-live/otesport4.sdp/playlist.m3u8
+#EXTINF:-1,ote sport 5
+http://38.122.233.10:1935/gr-live/otesport5.sdp/playlist.m3u8
 
 
-#EXTINF:-1, ECONOMICO TV
-http://wownet.ro/str/0511.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1 tvg-id="EconomicaTV.pt" tvg-logo="etv_pt.png", ECONOMICO TV (stream 2)
-http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
